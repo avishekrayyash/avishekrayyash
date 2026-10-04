@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avishekroyyash/avishekroyyash/main/github-banner.png" width="100%" alt="Avishek Roy Yash - Full Stack Web Developer Banner"/>
+  <img src="https://raw.githubusercontent.com/avishekroyyash/avishekroyyash/main/github-banner.png" width="100%" alt="Avishek Ray Yash - Full Stack Web Developer Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Avishek+Roy+Yash" alt="Avishek Roy Yash" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Avishek+Ray+Yash" alt="Avishek Ray Yash" />
 </h1>
 <h3 align="center">🚀 Full Stack Developer &nbsp;|&nbsp; Building Products That Solve Real Problems</h3>
 
@@ -15,11 +15,11 @@
 
 <!-- 🔗 Social & Professional Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/avishek-roy-yash">
+  <a href="https://www.linkedin.com/in/avishek-ray-yash">
     <img src="https://img.shields.io/badge/LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekroyyash@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekrayyash@gmail.com">
     <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -33,7 +33,7 @@
 </p>
 
 <!-- 👀 Profile Views & 💼 Availability -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=avishekroyyash&label=Profile%20Views&color=A371F7&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avishekrayyash&label=Profile%20Views&color=A371F7&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" /> </p>
 
 
 
@@ -77,7 +77,7 @@ Full-Stack Depth <sub>Confident across UI, API, and database — not frontend-on
 
 Fast Learner <sub>Picks up new tools and frameworks fast under real deadlines</sub>
 
-</td> </tr> </table> <p align="center"> I'm looking for a team that ships fast, values ownership, and gives junior developers room to grow — not just a title, but real responsibility from day one. If that's you, <a href="mailto:avishekroyyashl@gmail.com">let's talk</a>. </p>
+</td> </tr> </table> <p align="center"> I'm looking for a team that ships fast, values ownership, and gives junior developers room to grow — not just a title, but real responsibility from day one. If that's you, <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekrayyash@gmail.com">let's talk</a>. </p>
 
 
 
