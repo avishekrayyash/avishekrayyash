@@ -33,7 +33,8 @@
 </p>
 
 <!-- 👀 Profile Views & 💼 Availability -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=avishekrayyash&label=Profile%20Views&color=A371F7&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avishekrayyash&label=Profile%20Views&color=A371F7&style=for-the-badge" alt="profile views" /> 
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work" /> </p>
 
 
 
