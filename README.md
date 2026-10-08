@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avishekroyyash/avishekroyyash/main/github-banner.png" width="100%" alt="Avishek Ray Yash - Full Stack Web Developer Banner"/>
+  <img src="https://raw.githubusercontent.com/avishekrayyash/avishekrayyash/main/github-banner.png" width="100%" alt="Avishek Ray Yash - Full Stack Web Developer Banner"/>
 </p>
 
 <h1 align="center">
@@ -183,7 +183,7 @@ Metropolitan University · 2023 – Present
 
 
 📊 GitHub Analytics
-<p align="center"> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avishekroyyash&show_icons=true&cache_seconds=7200&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" /> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avishekroyyash&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=avishekroyyash&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" /> </p> 
+<p align="center"> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avishekrayyash&show_icons=true&cache_seconds=7200&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" /> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avishekrayyash&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=avishekrayyash&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" /> </p> 
 
 
 
@@ -195,9 +195,9 @@ I'm actively looking for **Junior Frontend / MERN Stack Developer** opportunitie
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avishek-roy-yash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="42" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/avishekroyyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="42" /></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@avishekroyyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="42" /></a>&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekroyyash@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/avishekrayyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@avishekrayyash"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avishekrayyash@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="42" /></a>&nbsp;&nbsp;
   <a href="https://avishekrayyash.vercel.app"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="42" /></a>
 </p>
 
@@ -206,7 +206,7 @@ I'm actively looking for **Junior Frontend / MERN Stack Developer** opportunitie
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avishekroyyash/avishekroyyash/main/github-banner.png" width="0" height="0" style="display:none" />
+  <img src="https://raw.githubusercontent.com/avishekrayyash/avishekrayyash/main/github-banner.png" width="0" height="0" style="display:none" />
   <i>⭐ If any of my projects helped or inspired you, consider giving it a star — it genuinely helps.</i>
 </p>
 
